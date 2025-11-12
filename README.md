@@ -5,3 +5,5 @@ Linguagem base: HTML, CSS, JavaScript
 Bibliotecas e frameworks: Bootstrap
 Controle de versão: GitHub  
 Organização do código: pastas 
+Alunos: Vinicius, Rafael Costa, Rafael Ramos, Davi e Pedro Henrique Soares da Silva
+
