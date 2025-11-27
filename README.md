@@ -2,7 +2,7 @@
 Repositório criado com o objetivo de definir como e com o que o front-end do site da Padaria será desenvolvido. 
 
 Linguagem base: HTML, CSS, JavaScript, React
-Bibliotecas e frameworks: Bootstrap, Motion
+Bibliotecas e frameworks: Motion
 Controle de versão: GitHub
 Organização do código: pastas 
 Alunos: Vinicius, Rafael Costa, Rafael Ramos, Davi e Pedro Henrique Soares da Silva 
